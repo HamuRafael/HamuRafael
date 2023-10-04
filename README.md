@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @HamuRafael
-- 👀 I’m interested in videogames,e-sports and learning new things =D
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... You can follow me on my social medias @rafaelhamu or my email : rafahamu@gmail.com
-- 
+# 👋 Hello! Welcome to my Github profile.
+## My name is Rafael Hamú and my nickname is Hamu!
 
-<!---
-HamuRafael/HamuRafael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##Lenguages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+          
+          
