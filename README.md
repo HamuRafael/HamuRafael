@@ -16,7 +16,7 @@
 </div>
 
 
-<center>
+
 ![](https://github.com/HamuRafael/gifs/blob/main/cat.gif)
-</center>
+
 
