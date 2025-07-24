@@ -8,7 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="50"/>
           
 ## Let’s Connect:
-#Feel free to check out my social media and projects. I'm always open to collaborating, sharing knowledge, and learning from others in the programming community!
+## Feel free to check out my social media and projects. I'm always open to collaborating, sharing knowledge, and learning from others in the programming community!
 ## Social Media
 
 <div>
