@@ -2,7 +2,7 @@
 
 **Backend Developer | Python & SQL | Computer Science @ UnB**
 
-I build backend systems and automations with Python and Oracle. Currently working at the Brazilian Federal Senate, where I developed an internal Oracle APEX system used in production by my department, plus Python automations that replaced manual workflows.
+I build backend systems and automations with Python and Oracle. Currently working at Grupo Affix, where I developedPython automations that replaced manual workflows.
 
 - 🎓 Computer Science student at the University of Brasília (UnB), final semesters
 - 💼 Intern at the Brazilian Federal Senate — Oracle APEX, PL/SQL, Python automations
