@@ -5,7 +5,7 @@
 I build backend systems and automations with Python and Oracle. Currently working at Grupo Affix, where I developedPython automations that replaced manual workflows.
 
 - 🎓 Computer Science student at the University of Brasília (UnB), final semesters
-- 💼 Intern at the Brazilian Federal Senate — Oracle APEX, PL/SQL, Python automations
+- 💼 Junior Software Engineer — Python automations
 - 🌱 Currently deepening: REST APIs (FastAPI), testing, Docker, CI/CD
 - 📍 Brasília, Brazil
 
